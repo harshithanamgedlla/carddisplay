@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+bg-container {
+    background-color: white;
+    height: 70vh;
+    width: 90vw;
+    background-size: cover;
+    padding: 2px;
+}
+
+.podcast-card {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    height: 45vh;
+    width: 90vw;
+}
+
+.pd-main-heading {
+    color: white;
+    font-family: Roboto;
+    padding: 15px;
+    font-size: 30px;
+}
+
+.image {
+    height: 20vh;
+    width: 30vw;
+    padding: 3px;
+}
+
+.main-heading2 {
+    font-size: 15px;
+    font-family: Roboto;
+    color: #151765;
+    padding: 5px;
+    font-weight: bold;
+}
+
+.paragraph2 {
+    font-size: 15px;
+    font-family: Roboto;
+    color: #5a7184;
+    padding: 5px;
+}
+
+.puri-card {
+    height: 40vh;
+    width: 40vw;
+    margin: 15px;
+}
+
+.bg-container2 {
+    background-color: white;
+    height: 70vh;
+    width: 90vw;
+    background-size: cover;
+    padding: 2px;
+}
+
+.image2 {
+    height: 20vh;
+    width: 30vw;
+    padding: 1px;
+    margin: 5px;
+}
+
+.puri2-card {
+    height: 25vh;
+    width: 90vw;
+    background-color: #151765;
+    padding: 15px;
+    margin: 10px;
+}
+
+.main-heading3 {
+    font-size: 15px;
+    font-family: Roboto;
+    color: white;
+    font-weight: bold;
+}
+
+.paragraph3 {
+    font-size: 13px;
+    font-family: Roboto;
+    color: white;
+
+}
+
+.main-heading4 {
+    font-size: 15px;
+    font-family: Roboto;
+    color: #151765;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.paragraph4 {
+    font-size: 13px;
+    font-family: Roboto;
+    color: #5a7184;
+    padding: 5px;
+}
+
+.button {
+    background-color: #151765;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    color: white;
+    font-weight: bold;
+    width: 25vw;
+}
+
+.btn-container {
+    text-align: right;
+}
